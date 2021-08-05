@@ -21,4 +21,4 @@ obs: precisamos abrir dois terminais para executar o comando
 
 ### `npm start`
 
-Após isso vá até a porta 3000 ou clique [git clone https://github.com/rafael2801/Calculadora.git](aqui)
+Após isso vá até a porta 3000 ou clique [aqui](http://localhost:3000/#/)
